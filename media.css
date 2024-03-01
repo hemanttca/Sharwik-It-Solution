@@ -1,0 +1,110 @@
+@media screen and (max-width: 770px){
+    .navbox ul{
+        display: none;
+    }
+    .menubox{
+        display: flex;
+        margin-right: 50px;
+    }
+    .poster{
+        height: 1050px;
+    }
+    .posterheading{
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .postermetter{
+        font-size: 18px;
+    }
+    .comman-btn{
+      margin-top: 10px;
+    }
+    .workbox{
+        width: 100%;
+    }
+    .background{
+        height: 40vh;
+    } 
+    .animhit{
+        padding-bottom: 150px;
+    }
+    .sharwiktext{
+        font-size: 30px;
+    }
+    .mdimg{
+        width: 100%;
+        margin-bottom: 90px;
+    }
+    .migrationbox{
+        height: 70px;
+        width: 150px;
+    }
+    .migrationbox H3{
+        display: none;
+    }
+    .drupalbox{
+        height: 70px;
+        width: 150px;
+    }
+    .drupalbox H3{
+        display: none;
+    }
+    .footerbox1{
+        width: 50%;
+    }
+    .footerbox2{
+        width: 50%;
+    }
+    .footerbox3{
+        width: 50%;
+    }
+    .footerbox4{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .logobox{
+        width: 60%;
+    }
+    .navbox{
+        width: 40%;
+    }
+    .menubox{
+        display: flex;
+        margin-right: 20px;
+    }
+    .workheading{
+        font-size: 24px;   
+    }
+    .ourheading{
+        font-size: 24px;   
+    }
+    .background{
+        display: none;
+    }
+    .box{
+        width: 100%;
+        margin-bottom: 50PX;
+    }
+    .footerbox1{
+        width: 100%;
+    }
+    .footerbox2{
+        width: 100%;
+    }
+    .footerbox3{
+        width: 100%;
+    }
+    .footerbox4{
+        width: 100%;
+    }
+    .footer2box1{
+        width: 100%;
+    }
+    .footer2box2{
+        width: 100%;
+        justify-content: center;
+    }
+
+}
